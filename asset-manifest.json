@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/make-sure/static/css/main.ba4ee7d9.css",
+    "main.js": "/make-sure/static/js/main.586f87ce.js",
+    "index.html": "/make-sure/index.html",
+    "main.ba4ee7d9.css.map": "/make-sure/static/css/main.ba4ee7d9.css.map",
+    "main.586f87ce.js.map": "/make-sure/static/js/main.586f87ce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba4ee7d9.css",
+    "static/js/main.586f87ce.js"
+  ]
+}
